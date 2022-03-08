@@ -1,0 +1,1 @@
+Siamese for face recognization This package contains only the models used for face recognization by siamese neural network Siamese_for_face_recognization. See Siamese_for_face_recognization for more information.
