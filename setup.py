@@ -56,6 +56,7 @@ setup(
     version='0.0.1',
     description="Models used for face_recognition by siamese neural network.",
     long_description=readme,
+    long_description_content_type="text/markdown"
     author="AlphonseInbarajXavier",
     author_email='xalphonse@gmail.com',
     url='https://github.com/xalphonseinbaraj/Siamese_for_face_recognization',
